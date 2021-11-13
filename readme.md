@@ -22,6 +22,6 @@ There is also a new tab in Tabby's settings where you can specify your defualt i
 
 </p>
 
-<img src="https://raw.githubusercontent.com/composer404/tabby-workspace-manager/master/docs/tabby-search-in-browser-1.jpg" style="border-radius: 10px">
+<img src="https://github.com/composer404/tabby-search-in-browser/blob/master/docs/tabby-search-in-browser-1.jpg" style="border-radius: 10px">
 
-<img src="https://raw.githubusercontent.com/composer404/tabby-workspace-manager/master/docs/tabby-search-in-browser-2.jpg" style="border-radius: 10px">
+<img src="https://github.com/composer404/tabby-search-in-browser/blob/master/docs/tabby-search-in-browser-2.jpg" style="border-radius: 10px">
