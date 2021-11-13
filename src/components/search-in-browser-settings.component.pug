@@ -1,0 +1,11 @@
+h3 Search in browser
+
+.form-line
+    .header
+        .title Search engine
+        .description Select defualt search engine
+    select.form-control(
+        [(ngModel)]='config.store.searchInBrowserPlugin.defaultEngine',
+        (ngModelChange)='config.save()'
+    )
+        option([ngValue]='engine', *ngFor='let engine of getEngines()') {{engine}}
