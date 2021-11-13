@@ -17,11 +17,11 @@
         "dist"
     ],
     "bugs": {
-        "url": "https://github.com/composer404/search-in-browser/issues"
+        "url": "https://github.com/composer404/tabby-search-in-browser/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/composer404/search-in-browser"
+        "url": "git+https://github.com/composer404/tabby-search-in-browser"
     },
     "author": "Przemyslaw Kozik",
     "license": "MIT",
