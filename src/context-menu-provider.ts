@@ -16,7 +16,7 @@ export class SearchInBrowserContextMenuProvider extends TabContextMenuItemProvid
         if (selectedText) {
             items = [
                 {
-                    label: 'Open in browser',
+                    label: 'Search with Browser',
                     click: () => {
                         this.searchInBrowserSerivce.openSelectedTextInBrowser(selectedText);
                     },

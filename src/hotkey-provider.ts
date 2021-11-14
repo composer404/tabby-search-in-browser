@@ -9,7 +9,7 @@ export class SearchInBrowserHotkeyProvider extends HotkeyProvider {
         return [
             {
                 id: SEARCH_IN_BROWSER_HOTKEYS.SEARCH_IN_BROWSER,
-                name: 'Open browser with a selected text',
+                name: 'Search with Browser',
             },
         ];
     }

@@ -1,6 +1,6 @@
 {
     "name": "tabby-search-in-browser",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Opens default system browser with selected text",
     "keywords": [
         "tabby-plugin"
