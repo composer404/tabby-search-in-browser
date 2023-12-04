@@ -16,9 +16,9 @@
 ## General
 
 <p>
-The plugin adds a <b>context menu</b> option after you select text on a tab (also hotkey is possible). When you use that option, a system defualt web browser will open and search with a given text. If you use split tabs, it will open as many browser tabs as terminal tabs with selected text.
+The plugin adds a <b>context menu</b> option after you select text on a tab (also hotkey is possible). When you use that option, a system default web browser will open and search with a given text. If you use split tabs, it will open as many browser tabs as terminal tabs with selected text.
 
-There is also a new tab in Tabby's settings where you can specify your defualt internet search engine using a dropdown list.
+There is also a new tab in Tabby's settings where you can specify your default internet search engine using a dropdown list.
 
 </p>
 

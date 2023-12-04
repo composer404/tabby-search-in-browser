@@ -3,7 +3,7 @@ h3 Search in browser
 .form-line
     .header
         .title Search engine
-        .description Select defualt search engine
+        .description Select default search engine
     select.form-control(
         [(ngModel)]='config.store.searchInBrowserPlugin.defaultEngine',
         (ngModelChange)='config.save()'
